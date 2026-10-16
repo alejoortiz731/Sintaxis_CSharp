@@ -1,0 +1,14 @@
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\bin\Debug\net10.0\Reto_Operadores.exe
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\bin\Debug\net10.0\Reto_Operadores.deps.json
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\bin\Debug\net10.0\Reto_Operadores.runtimeconfig.json
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\bin\Debug\net10.0\Reto_Operadores.dll
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\bin\Debug\net10.0\Reto_Operadores.pdb
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net10.0\Reto_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net10.0\Reto_Operadores.AssemblyInfoInputs.cache
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net10.0\Reto_Operadores.AssemblyInfo.cs
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net10.0\Reto_Operadores.csproj.CoreCompileInputs.cache
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net10.0\Reto_Operadores.dll
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net10.0\refint\Reto_Operadores.dll
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net10.0\Reto_Operadores.pdb
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net10.0\Reto_Operadores.genruntimeconfig.cache
+c:\Users\ortiz\OneDrive\Documentos\Sintaxis_CSharp\Reto_TiposDatos\obj\Debug\net10.0\ref\Reto_Operadores.dll
